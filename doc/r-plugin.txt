@@ -2663,11 +2663,13 @@ put in your |vimrc|:
 							       *r-plugin-news*
 10. News~
 
+1.2.9 (2016-03-02)
+
  * Delete option vimrplugin_restart
 
  * Use the +channel feature instead of +clientserver.
 
-1.2.8 (2016-03-02)
+1.2.8 (2016-02-20)
 
  * New option (Windows only): vimrplugin_set_home_env.
 
